@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="logo.png" alt="LutukiSolo" width="200">
   <h1 align="center"> LutukiSolo 🦆</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=Lutuki&color=red" alt="Profile Views"/></img>
