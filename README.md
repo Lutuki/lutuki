@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/e39d18bc52bd4f33753eede74e638a0a571b569df3565009985c4114f6049b7e/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d41727963657226636f6c6f723d726564" style="max-width: 100%;" data-canonical-src="https://komarev.com/ghpvc/?username=Lutuki&amp;color=red">
+![Profile Views](https://komarev.com/ghpvc/?username=Lutuki&color=red)
 
 # 💫 About Me:
 Soy LutukiSolo, desarrollador de software con 7 años de experiencia en servidores de Minecraft y diseño gráfico. Me especializo en crear servidores optimizados y entretenidos con loaders como Arclight, Forge y Paper, Velocity entre otros, además de desarrollar plugins y sitios web personalizados.
