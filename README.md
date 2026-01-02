@@ -1,19 +1,15 @@
-<h1 align="center">
-    LutukiSolo 🦆
-    <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=Lutuki&color=red"/> 
-    </p>
+<h1 align="center"> LutukiSolo 🦆</h3>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Lutuki&color=red" alt="Profile Views"/></div>
 
 ## 💫 | Sobre mí
-</h3>
 
 * <img src="https://raw.githubusercontent.com/Lutuki/lutuki/refs/heads/main/1287020515243982909.gif" width="16"/> GRAPHIC DESIGNER & DEVELOPER
 * 💥 Tengo 18 años
 * ⚙️ Actualmente estudiando **Técnico Superior en Automatización y Robótica Industrial**
 * 🔗 Más información sobre mi en [lutukisolo.site](https://lutukisolo.site/)
-  
-<hr/>
 
+<hr/>
+  
 ## 📌 | Mi conocimiento
 
 <p align="center">
@@ -32,7 +28,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://camo.githubusercontent.com/6897217e9b9979a6bbbc54552fda2213051c07df0130d3ddab5d9f8974e57059/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426173682d3132313031312e7376673f6c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465" alt="Bash" />
+  <img src="https://img.shields.io/badge/Bash-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   
   <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
   <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Adobe Acrobat Reader" />
@@ -47,7 +43,7 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<br/>
+<hr/>
 
 ## 🧩 | Mi estado  
 <p align="center">
@@ -57,4 +53,4 @@
 <hr/>
 
 <h2 align="center">⚡ VOLTY STUDIO</h2>
-<p align="center">¡Echa un vistazo a empresa personal: [discord.voltymc.net](https://volty.voltymc.net)!</p>
+<p align="center">🔗 ¡Echa un vistazo a empresa personal: https://volty.voltymc.net!</p>
