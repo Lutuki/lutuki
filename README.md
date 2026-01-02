@@ -1,4 +1,4 @@
-<h3 align="center">LutukiSolo</a> 🦆</h3>
+<h2 align="center">LutukiSolo</a> 🦆</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Lutuki&color=red"/> 
