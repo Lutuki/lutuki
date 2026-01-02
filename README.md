@@ -3,9 +3,9 @@
     <p align="center">
         <img src="https://komarev.com/ghpvc/?username=Lutuki&color=red"/> 
     </p>
-</h3>
 
 ## 💫 | Sobre mí
+</h3>
 
 * <img src="https://raw.githubusercontent.com/Lutuki/lutuki/refs/heads/main/1287020515243982909.gif" width="16"/> GRAPHIC DESIGNER & DEVELOPER
 * 💥 Tengo 18 años
