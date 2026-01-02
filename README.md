@@ -57,4 +57,4 @@
 <hr/>
 
 <h2 align="center">⚡ VOLTY STUDIO</h2>
-<p align="center">🔗 ¡Echa un vistazo a empresa personal: https://volty.voltymc.net!</p>
+<p align="center">🔗 ¡Echa un vistazo a empresa personal: https://discord.voltymc.net!</p>
