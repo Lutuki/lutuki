@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy LutukiSolo, desarrollador de software con 5 años de experiencia en servidores de Minecraft y diseño gráfico. Me especializo en crear servidores optimizados y entretenidos con loaders como Arclight, Forge y Paper, Velocity entre otros, además de desarrollar plugins y sitios web personalizados.
+Soy LutukiSolo, desarrollador de software con 7 años de experiencia en servidores de Minecraft y diseño gráfico. Me especializo en crear servidores optimizados y entretenidos con loaders como Arclight, Forge y Paper, Velocity entre otros, además de desarrollar plugins y sitios web personalizados.
 
 
 ## 🌐 Socials:
